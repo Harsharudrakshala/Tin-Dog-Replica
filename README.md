@@ -21,7 +21,7 @@ This project is a replica of the Tindog website, recreated using HTML, CSS, and 
 2. Navigate to the project directory:
 
    ```bash
-   cd tindog-website-replica
+   cd Tin-Dog-Replica
    ```
 
 3. Open `index.html` in a web browser to view the replica website.
